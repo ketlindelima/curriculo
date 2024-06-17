@@ -1,0 +1,16 @@
+.a4_vertical {
+     width: 793px; 
+     height: 1122px; 
+     
+}
+
+body{
+     background-color:rgb(179, 172, 172);
+}
+
+.header{
+     width: 50%;
+     margin: 0 auto;
+     background-color: brown;
+     text-align: center;
+}
